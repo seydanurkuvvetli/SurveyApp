@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="name_and_surname">Name and Surname:</string>
+    <string name="age">Age:</string>
+    <string name="city">City:</string>
+    <string name="email">Email:</string>
+    <string name="response_1">Response 1:</string>
+    <string name="response_2">Response 2:</string>
+    <string name="response_3">Response 3:</string>
+</resources>
